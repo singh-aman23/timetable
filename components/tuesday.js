@@ -39,7 +39,7 @@ const scheduleTuesday = [
         subjectHe: 'Computer Organization and Architecture',
         classroomHe: 'D2-203',
         subjectHer: 'Programming in Python',
-        classroomHer: 'D3-207',
+        classroomHer: 'D3-201',
       },
       {
         time: '14:45 - 15:35',

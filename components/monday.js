@@ -16,14 +16,14 @@ const scheduleMonday = [
     {
       time: '11:10 - 12:00',
       subjectHe: 'Business Intelligence GP-A',
-      classroomHe: 'D3-209',
+      classroomHe: 'D3-209A',
       subjectHer: 'Project based learning in Java lab GP-B',
       classroomHer: 'D3-203',
     },
     {
       time: '12:10 - 13:00',
       subjectHe: 'Business Intelligence GP-A',
-      classroomHe: 'D3-209',
+      classroomHe: 'D3-209A',
       subjectHer: 'Project based learning in Java lab GP-B',
       classroomHer: 'D3-203',
     },

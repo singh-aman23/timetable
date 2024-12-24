@@ -37,9 +37,9 @@ const scheduleThursday = [
       {
         time: '13:55 - 14:45',
         subjectHe: 'Business Intelligence',
-        classroomHe: 'D3-203',
+        classroomHe: 'D3-107',
         subjectHer: 'Business Intelligence',
-        classroomHer: 'D3-203',
+        classroomHer: 'D3-107',
       },
       {
         time: '14:45 - 15:35',
