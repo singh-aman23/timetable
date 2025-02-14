@@ -4,7 +4,7 @@ const scheduleFriday = [
         subjectHe: 'PROJECT BASED LEARNING IN JAVA LAB GP-A',
         classroomHe: 'C1-707',
        subjectHer: 'Probability and Statistics',
-        classroomHer: 'D3-203',
+        classroomHer: 'D3-107',
       },
       {
         time: '10:20 - 11:10',
