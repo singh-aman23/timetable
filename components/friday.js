@@ -17,7 +17,7 @@ const scheduleFriday = [
         time: '11:10 - 12:00',
         subjectHe: '(11:20)Full Stack',
         classroomHe: 'D3-211',
-        subjectHer: '(11:20)Descriptive Analysis',
+        subjectHer: '(11:20)DA',
         classroomHer: 'D3-501',
       },
       {
